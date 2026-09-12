@@ -49,3 +49,7 @@ Foto/laporan hasil prediksi, dump database lokal, cache, dan checkpoint terakhir
 ### Deteksi menggunakan kamera MacBook
 
 ![Tampilan kamera dan hasil deteksi Acne Detection](docs/screenshots/camera-detection.png)
+
+### Riwayat deteksi
+
+![Halaman riwayat deteksi Acne Detection](docs/screenshots/detection-history.png)
