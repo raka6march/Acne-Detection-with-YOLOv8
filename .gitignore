@@ -1,0 +1,17 @@
+# Local configuration and generated files
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+backend/results/
+backend/runs/
+.ipynb_checkpoints/
+db_acne_detection.sql
+backend/model/last.pt
+backend/model/skin-type-last.pt
